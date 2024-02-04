@@ -1,0 +1,11 @@
+module Base {
+
+    model powerMeter
+    {
+        mesh = WorldItems/powerMeter,
+        texture = WorldItems/case,
+	 texture = WorldItems/PowerMeterFace,
+	 texture = WorldItems/Visor,
+        scale = .001,
+    }
+}

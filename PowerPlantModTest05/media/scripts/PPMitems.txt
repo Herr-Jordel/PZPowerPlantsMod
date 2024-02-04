@@ -1,0 +1,14 @@
+module PPM {
+    imports
+    {
+        Base
+    }
+  	  	item powerMeter
+    {
+        Type = Normal,
+        DisplayName = powerMeter,
+        Weight = 5.00,
+        Icon	=	Animal,
+		WorldStaticModel = powerMeter,
+    }
+}
