@@ -1,0 +1,6 @@
+name=PowerPlantMod
+description=Adds a Power Plant object with generator functionality and custom action.
+author= Herr Jordel
+version=1.0
+pack=PowerPlantControls
+tiledef=tiledefinitions 999

@@ -1,0 +1,23 @@
+module PPM {
+    imports
+    {
+        Base
+    }
+  	  	item powerMeter
+    {
+        Type = Normal,
+        DisplayName = powerMeter,
+        Weight = 2.00,
+        Icon	=	Animal,
+	WorldStaticModel = powerMeter,
+    }
+
+    		item TurbineController
+    {
+        Type			= Moveable,
+        Icon			= default,
+        Weight          	= 10.00,
+        DisplayName		= TurbineController,
+        WorldObjectSprite	= PowerPlantControls_1,
+    }
+}
