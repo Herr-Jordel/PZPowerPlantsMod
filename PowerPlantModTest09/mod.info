@@ -1,0 +1,6 @@
+name=Power Plant Mod
+description=Adds a Power Plant object with generator functionality and custom action.
+id=PowerPlantMod
+pack=PowerPlantControls
+tiledef=PPMtiledef 999
+
